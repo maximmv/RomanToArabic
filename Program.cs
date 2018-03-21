@@ -177,7 +177,6 @@ namespace LightIt
                                     Console.ReadKey();
                                 }
                             }
-
                             break;
                         }
 
@@ -188,8 +187,8 @@ namespace LightIt
                         {
                             return;                           
                         }
-                    default: {
-
+                    default:
+                        {
                             break;
                         }
                 } 
