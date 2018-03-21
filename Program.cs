@@ -117,8 +117,7 @@ namespace LightIt
                     Console.WriteLine(menu);               
                     Console.WriteLine("Invalid input. Please enter a choice(1-3): ");
                     choice = Console.ReadLine();
-                }
-               
+                }               
                 
                 switch (choice)
 
