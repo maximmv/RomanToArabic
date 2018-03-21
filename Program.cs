@@ -148,15 +148,7 @@ namespace LightIt
                             break;
                         }
 
-                    case "2":
-
-                        //{
-                        //    Console.WriteLine(arabToRoman(1));
-                        //    Console.WriteLine("trulala2");
-
-                        //    break;
-
-                        //}
+                    case "2":                        
 
                         {
                             while (true)
@@ -200,13 +192,7 @@ namespace LightIt
 
                             break;
                         }
-
-
-                }  
-                //arabToRoman(3999);
-                //Console.WriteLine("Press any key...");
-                //Console.ReadLine();
-
+                } 
             }
         }
     }
