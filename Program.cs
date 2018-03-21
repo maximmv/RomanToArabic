@@ -50,7 +50,7 @@ namespace LightIt
                     throw new Exception("Roman number includes invalid characters!!!");
             }
 
-
+            //Регулярное выражение для определения корректной записи римского числа
             string pattern = @"^(M{0,3})((C[DM])|(D?C{0,3}))?((X[LC])|(L?X{0,3}))?((I[XV])|(V?I{0,3}))?$";
 
             if (!Regex.IsMatch(r_num, pattern))
